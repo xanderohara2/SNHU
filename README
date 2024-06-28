@@ -1,0 +1,17 @@
+1. Summarize the project and what problem it was solving.
+The last project for CS 210 was to write c++ code for a grocery store that could allow a user to input an item and the code return how many of that item were in a .txt file.
+ 
+2. What did you do particularly well?
+For this assignment, I believe I did a good job writing clear, understandable code with good comments for extra readability.
+
+3. Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+I could have done better creating a header file instead of containing all of my code inside on CPP script.
+
+4. Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+The most challenging part was to accurately count how many items were in the text file and have it read it appropriately so that it output the correct number, I was lucky to have a friend experienced with c++ who was able to help me have it read each new line as it was supposed to.
+
+5. What skills from this project will be particularly transferable to other projects or course work?
+I had never used c++ much before this class so just having that knowledge in general is huge to me, I also feel like I learned a lot about classes and understand more about their structure at least within c++ than I had before.
+ 
+6. How did you make this program maintainable, readable, and adaptable?
+I believe I made the programmable readable and maintainable by having very specific comments and clear sections/blocks of code which say exactly what they do and how. For future reference, I will make it more maintainable by keeping things separated and not inside one main .cpp file
